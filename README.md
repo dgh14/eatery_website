@@ -1,4 +1,4 @@
 # eatery_website
 Simple website using HTML
 
-Thia is a simple website created using HTML and css
+This is a simple website created by using HTML and css
